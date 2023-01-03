@@ -4,7 +4,7 @@
 
 [![pipeline status](https://gitlab.freedesktop.org/dbus/zbus/badges/main/pipeline.svg)](https://gitlab.freedesktop.org/dbus/zbus/-/commits/main)
 
-A Rust API for [D-Bus](https://dbus.freedesktop.org/doc/dbus-specification.html) communication. The
+A Rust API for [D-Bus](https://dbus.freedesktop.org/doc/dbus-specification.html) communication. Pronounced ~zed~ zee (/ˈziː/) bus, rhymes with the `D` in D-Bus and initial part of author's name. The
 goal is to provide a safe and simple high- and low-level API akin to
 [GDBus](https://developer.gnome.org/gio/stable/gdbus-convenience.html), that doesn't depend on C
 libraries.
